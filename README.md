@@ -8,85 +8,41 @@
 
 </div>
 
-## 👀 Visitor Count
+Skills & Expertise
+Full Stack Development
+Frontend: React.js, Next.js, TypeScript, TailwindCSS, Redux
 
-<!-- ⚠️ Important: Replace 'insionCEO' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/insionCEO/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
+Backend: Node.js, Express.js, Nest.js, Python (Django, Flask), GraphQL
 
-## 🏆 GitHub Trophies
+Databases: PostgreSQL, MongoDB, Firebase, TimescaleDB (for financial data)
 
-<!-- ⚠️ Important: Replace 'insionCEO' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=insionCEO&theme=flat&column=7&margin-w=15&margin-h=15" />
-</p>
+DevOps: Docker, AWS (Lambda, EC2), Vercel, CI/CD Pipelines
 
-## 📊 GitHub Stats
+Version Control: Git, GitHub, GitLab
 
-<!-- ⚠️ Important: Replace 'insionCEO' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=insionCEO&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-</div>
+Web3 & Blockchain (Trading Focus)
+Smart Contracts: Solidity (EVM), Rust (Solana), Hardhat, Foundry
 
-## 🔝 Most Used Languages
+DeFi & Trading: CEX/DEX APIs (Binance, Coinbase), Automated Market Makers (AMM), Liquidity Pools, MEV Strategies
 
-<!-- ⚠️ Important: Replace 'insionCEO' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=insionCEO&layout=compact&langs_count=10&theme=buefy"/>
-</div>
+Trading Bots: Algorithmic Trading (Python), High-Frequency Trading (HFT) Systems, Backtesting (Backtrader, QuantConnect)
 
-## 🔥 Contribution Streak
+Tools: Web3.js, Ethers.js, The Graph, Chainlink Oracles, MetaTrader APIs
 
-<!-- ⚠️ Important: Replace 'insionCEO' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=insionCEO&theme=buefy&hide_border=false" />
-</div>
+Artificial Intelligence & Machine Learning
+LLMs & NLP: OpenAI (GPT-4, Whisper), LangChain, LlamaIndex, Hugging Face Transformers
 
-## 🐦 Latest Tweet
+AI for Trading: Predictive Modeling, Sentiment Analysis (News/Social Media), Portfolio Optimization
 
-<!-- ⚠️ Important: Replace 'insionCEO' with your actual Twitter username in the URL below -->
-<div align="center">
-  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=insionCEO" /></a>
-</div>
+Model Integration: FastAPI, RESTful AI Services, RAG (Retrieval-Augmented Generation)
 
-## 💻 Tech Stack
+Data & Training: Pandas, NumPy, Scikit-learn, TensorFlow (Basics), PyTorch (Basics)
 
-<div align="center">
+AI Tooling: Pinecone, Weaviate, ChromaDB, Vector Embeddings, LLM Fine-Tuning
 
-**🎨 Frontend**
+Financial & Quantitative Skills
+Quantitative Analysis, Technical Indicators (RSI, MACD), Candlestick Pattern Recognition
 
-`React` • `Vue.js` • `Angular` • `Svelte` • `Next.js` • `Tailwind` • `Bootstrap` • `Material UI` • `Sass` • `CSS3` • `HTML5`
+Risk Management, Position Sizing, Statistical Arbitrage
 
-**⚙️ Backend**
-
-`Node.js` • `Express` • `Django` • `Spring` • `NestJS` • `.NET` • `Ruby on Rails` • `MongoDB` • `SQLite` • `MySQL` • `Laravel` • `PostgreSQL` • `Redis`
-
-**🧠 AI/ML**
-
-`TensorFlow` • `PyTorch` • `Scikit-Learn` • `Keras` • `NumPy` • `Hugging Face` • `Pandas` • `OpenCV`
-
-**📱 Mobile**
-
-`React Native` • `Flutter` • `Swift` • `Kotlin` • `Android` • `Xamarin` • `Ionic`
-
-**💬 Languages**
-
-`JavaScript` • `TypeScript` • `Python` • `Java` • `Rust` • `PHP` • `Ruby` • `Go` • `C#` • `C++` • `C` • `R`
-
-</div>
-
-## 🌐 Socials
-
-<div align="center">
-
-<a href="https://github.com/insionCEO"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://twitter.com/insionCEO"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a> <a href="https://medium/insionCEO"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"></a> 
-
-</div>
-
-<div align="center">
-
-✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
-
-</div>
+Real-Time Data Processing (WebSockets, Kafka), Time-Series Analysis
