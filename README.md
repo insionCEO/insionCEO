@@ -8,41 +8,30 @@
 
 </div>
 
-Skills & Expertise
-Full Stack Development
-Frontend: React.js, Next.js, TypeScript, TailwindCSS, Redux
+## 🔥 Skills & Expertise
 
-Backend: Node.js, Express.js, Nest.js, Python (Django, Flask), GraphQL
+  ### Full Stack Development
+  - Frontend: React.js, Next.js, Angular.js, Vue.js, TypeScript, TailwindCSS, Redux
+  - Backend: Node.js, Express.js, Nest.js, Ruby on Rails, Django, Flask, FastAPI, GraphQL
+  - Databases: PostgreSQL, MongoDB, Firebase
+  - DevOps: Docker, AWS, Vercel
+  - Version Control: Git, GitHub, CI/CD
+  
+  ### Artificial Intelligence & Machine Learning
+  - LLMs & NLP: OpenAI (GPT-4, Whisper), LangChain, LlamaIndex, Transformers (Hugging Face)
+  - AI for Trading: Predictive Modeling, Sentiment Analysis (News/Social Media), Portfolio Optimization
+  - Model Integration: Python APIs, FastAPI, RESTful AI services, Retrieval-Augmented Generation (RAG)
+  - Data & Training: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch (basic)
+  - AI Tooling: Pinecone, Weaviate, ChromaDB, Vector Embeddings
 
-Databases: PostgreSQL, MongoDB, Firebase, TimescaleDB (for financial data)
+  ### Financial & Quantitative Skills 
+  - Quantitative Analysis, Technical Indicators (RSI, MACD), Candlestick Pattern Recognition
+  - Risk Management, Position Sizing, Statistical Arbitrage
+  - Real-Time Data Processing (WebSockets, Kafka), Time-Series Analysis
 
-DevOps: Docker, AWS (Lambda, EC2), Vercel, CI/CD Pipelines
+  ### Web3 & Blockchain (Trading Focus)
+  - Smart Contracts: Solidity, Rust (Solana), Hardhat, Foundry
+  - DeFi & Trading: CEX/DEX APIs (Binance, Coinbase), Automated Market Makers (AMM), Liquidity Pools, MEV Strategies
+  - Trading Bots: Algorithmic Trading (Python), High-Frequency Trading (HFT) Systems, Backtesting (Backtrader, QuantConnect)
+  - Tools: Ethers.js, Web3.js, Moralis, IPFS
 
-Version Control: Git, GitHub, GitLab
-
-Web3 & Blockchain (Trading Focus)
-Smart Contracts: Solidity (EVM), Rust (Solana), Hardhat, Foundry
-
-DeFi & Trading: CEX/DEX APIs (Binance, Coinbase), Automated Market Makers (AMM), Liquidity Pools, MEV Strategies
-
-Trading Bots: Algorithmic Trading (Python), High-Frequency Trading (HFT) Systems, Backtesting (Backtrader, QuantConnect)
-
-Tools: Web3.js, Ethers.js, The Graph, Chainlink Oracles, MetaTrader APIs
-
-Artificial Intelligence & Machine Learning
-LLMs & NLP: OpenAI (GPT-4, Whisper), LangChain, LlamaIndex, Hugging Face Transformers
-
-AI for Trading: Predictive Modeling, Sentiment Analysis (News/Social Media), Portfolio Optimization
-
-Model Integration: FastAPI, RESTful AI Services, RAG (Retrieval-Augmented Generation)
-
-Data & Training: Pandas, NumPy, Scikit-learn, TensorFlow (Basics), PyTorch (Basics)
-
-AI Tooling: Pinecone, Weaviate, ChromaDB, Vector Embeddings, LLM Fine-Tuning
-
-Financial & Quantitative Skills
-Quantitative Analysis, Technical Indicators (RSI, MACD), Candlestick Pattern Recognition
-
-Risk Management, Position Sizing, Statistical Arbitrage
-
-Real-Time Data Processing (WebSockets, Kafka), Time-Series Analysis
