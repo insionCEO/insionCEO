@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Full Stack Developer | AI engineer | Trading Expert ✨
+# ✨ Full Stack Developer | AI/ML engineer | Trading Expert ✨
 
 <p><em>Full Stack Web & AI Developer specializing in algorithmic trading, financial analytics, and trading platforms. Skilled in building high-performance web applications (React, Node.js, Python) and integrating AI/ML (TensorFlow, PyTorch) for predictive modeling, risk analysis, and automated trading strategies. Experienced with real-time data processing (APIs, WebSockets), quantitative analysis, and blockchain-based trading solutions. Passionate about merging cutting-edge tech with finance to build scalable, data-driven trading ecosystems.</em></p>
 
