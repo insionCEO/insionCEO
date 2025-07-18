@@ -6,13 +6,14 @@
 
 <hr>
 
-<img align="right" alt="coding_by_insionCEO" width="400" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif"/>
-
 </div>
 
 ## 🔥 Skills & Expertise
 
   ### Full Stack Development
+  
+<img align="right" alt="coding_by_insionCEO" width="400" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif"/>
+
   - Frontend: React.js, Next.js, Angular.js, Vue.js, TypeScript, TailwindCSS, Redux
   - Backend: Node.js, Express.js, Nest.js, Ruby on Rails, Django, Flask, FastAPI, GraphQL
   - Databases: PostgreSQL, MongoDB, Firebase
